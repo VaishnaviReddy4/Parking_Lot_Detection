@@ -39,7 +39,7 @@ Mask R-CNN extends Faster R-CNN.
 ![image](https://user-images.githubusercontent.com/94667797/170271967-e13f5d82-0e55-4b7a-8425-e21e84ff8a38.png)
 
 
-This respository consists of Two different segemnts:
+This respository consists of Two different segments:
 1. "Before Mask RCNN" consists of python files that are used to draw the bounding boxes arount the cars manually (which is not a Mask RCNN Algorithm).
 2. "Mask RCNN" consists of python files that are used to detect the empty lots when a video is given as input. 
 
